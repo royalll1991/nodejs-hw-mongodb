@@ -4,8 +4,7 @@
   "description": "goit-node-js",
   "type": "module",
   "main": "index.js",
-  "scripts": {
-    "lint": "eslint src/**/*.js",
+  "scripts": {"lint": "eslint src/**/*.js",
     "start": "node .src/index.js",
     "dev": "node src/index.js"
   },
